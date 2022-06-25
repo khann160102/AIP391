@@ -2,7 +2,7 @@ BUFFER_SIZE = 10000
 BATCH_SIZE = 64
 
 k = 5
-step = 5
+step = 32
 features = 512
 
 path = 'D:\\Documents\\5. Summer 2022\\'
